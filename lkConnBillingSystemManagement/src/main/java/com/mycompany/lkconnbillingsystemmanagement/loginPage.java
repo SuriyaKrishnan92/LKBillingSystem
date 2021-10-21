@@ -7,9 +7,6 @@ package com.mycompany.lkconnbillingsystemmanagement;
 import static com.mycompany.utils.EncryptPassword.getEncryptedPassword;
 import com.mycompany.utils.MySqlConnectioProvider;
 import java.sql.*;
-import java.security.MessageDigest;
-import java.security.NoSuchAlgorithmException;
-import java.util.Arrays;
 import javax.swing.JOptionPane;
 
 /**
